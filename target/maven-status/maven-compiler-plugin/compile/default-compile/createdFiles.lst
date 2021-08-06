@@ -1,0 +1,11 @@
+GetGraphQL\QueryType.class
+GetGraphQL\Filter.class
+GetGraphQL\QueryParametersBuilder.class
+GetGraphQL\FieldType.class
+GetGraphQL\Filter$Builder.class
+GetGraphQL\QueryParametersBuilder$1.class
+GetGraphQL\SearchableField.class
+GetGraphQL\Page.class
+GetGraphQL\SpecificationBuilder$1.class
+GetGraphQL\QueryOperator.class
+GetGraphQL\SpecificationBuilder.class
