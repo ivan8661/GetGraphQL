@@ -6,7 +6,7 @@
 
     <groupId>org.restfulapi</groupId>
     <artifactId>GetGraphQL</artifactId>
-    <version>1.0.0</version>
+    <version>0.0.1</version>
     <dependencies>
         <dependency>
             <groupId>org.springframework.data</groupId>
